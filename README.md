@@ -10,7 +10,7 @@ Clone this repository to klipper user home directory and execute install script:
 
 ```
 cd ~
-git clone <TBD>
+git clone https://github.com/evgs/usb2gcode
 cd usb2gcode
 ./install.sh
 ```
