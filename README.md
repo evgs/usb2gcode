@@ -20,9 +20,11 @@ cd usb2gcode
 1. Web-interfaces should be notified manually after USB device was plugged (Refresh Directory)
 2. KlipperScreen will not show `USB` directory and subdirs until *.gcode files will be found on plugged drive
 
-Based on discussion here https://www.linux.org.ru/forum/linux-hardware/17416863
+Based on scripts and discussion here https://www.linux.org.ru/forum/linux-hardware/17416863
 
 ------
+# USB2GCODE (русскоязычное описание)
+
 
 Этот набор скриптов занимается автомонтированием USB-накопителей в директорию printer_data/gcodes/USB
 Флэшки могут подключаться как до загрузки операционной системы, так и в горячем режиме.
