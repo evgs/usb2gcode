@@ -1,0 +1,17 @@
+This set of scripts will mount usb device automatically to Klipper GCODE default location:
+```
+~/printer_data/gcodes/USB/{Label or UUID}
+```
+
+Based on discussion here https://www.linux.org.ru/forum/linux-hardware/17416863
+
+
+Clone this repository to klipper user home directory and execute install script:
+
+```
+cd ~
+git clone <TBD>
+cd usb2gcode
+./install.sh
+```
+
